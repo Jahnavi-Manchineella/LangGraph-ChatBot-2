@@ -79,6 +79,6 @@ Licensed under the MIT License.
 🧠 Final Thoughts
 "This isn’t just a chatbot — it’s a research assistant, Wikipedia nerd, and AI thinker in one."
 
-<p align="center"> Made with ❤️ using LangGraph, Groq, LangChain, and curiosity. </p>
+<p align="center"> Made with  using LangGraph, Groq, LangChain, and curiosity. </p>
 
 
