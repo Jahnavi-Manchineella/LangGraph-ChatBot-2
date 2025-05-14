@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://your-logo-url.com/langgraph-logo.png" alt="LangGraph Logo" height="70"/>
-  <img src="https://your-logo-url.com/groq-logo.png" alt="Groq Logo" height="70"/>
-  <img src="https://your-logo-url.com/langchain-logo.png" alt="LangChain Logo" height="70"/>
-</p>
+
 
 <h1 align="center">🤖 LangGraph Chatbot Powered by Groq LLM + Arxiv & Wikipedia 🌐</h1>
 
